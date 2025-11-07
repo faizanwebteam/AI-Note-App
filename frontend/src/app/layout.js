@@ -1,4 +1,5 @@
-import '../styles/globals.css';
+// src/app/layout.js
+import '../styles/globals.css'; // Correct relative path
 import ThemeToggle from '../components/ThemeToggle';
 
 export default function RootLayout({ children }) {
